@@ -129,5 +129,5 @@ The project successfully demonstrates:
 
 👩‍💻 Author
 
-P. Divya Dharshini
+P. DivyaDharshini
 
